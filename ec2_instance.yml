@@ -1,4 +1,5 @@
 ---
+#Yaml code for cloudforation
 Description: Create an EC2 instance by AWS CloudFormation
 Resources:
   SecurityGroupDemoSvrTraffic:
